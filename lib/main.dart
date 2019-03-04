@@ -12,8 +12,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Mencoba Flutter",
       // home: Kartu(),
-      home: DaftarView(),
-      // home: LihatGrid(),
+      // home: DaftarView(),
+      home: LihatGrid(),
     );
 
   
